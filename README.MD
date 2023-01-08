@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm QuantumWavves</h1>
 
-<h2 align="center"><img src="https://media.tenor.com/l2W5oW7fkAoAAAAd/hu-tao.gif" width="300"></h2>
+<h2 align="center"><img src="https://gifdb.com/images/high/genshin-impact-cute-hu-tao-udmu5pbajulr7606.webp" width="300"></h2>
 
 
 <h3 align="center">Linux enthusiast, my interests are programming, operating systems and cibersecurity. </h3>
