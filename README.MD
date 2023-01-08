@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm QuantumWavves <img src="https://c.tenor.com/tR9hB6jNOHcAAAAC/nazuna-nanakusa-call-of-the-night.gif" width="40"></h1>
+<h1 align="center">Hello!, I'm QuantumWavves</h1>
 
-<h2 align="center"><img src="https://c.tenor.com/TiofbaVZ63AAAAAd/nazuna-nanakusa-yofukashi-no-uta.gif" width="300"></h2>
+<h2 align="center"><img src="https://media.tenor.com/l2W5oW7fkAoAAAAd/hu-tao.gif" width="300"></h2>
 
 
 <h3 align="center">Linux enthusiast, my interests are programming, operating systems and cibersecurity. </h3>
