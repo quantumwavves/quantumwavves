@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm QuantumWavves 👋</h1>
 
-<h2 align="center"><img src="https://i.pinimg.com/originals/68/e7/a9/68e7a984777eb93d66812bd15fb3536f.gif" width="600"></h2>
+<h2 align="center"><img src="https://media.tenor.com/EensU1xwSXcAAAAC/kazuha-teaser.gif" width="500"></h2>
 
 <h1 align="left">About me</h1>
 
