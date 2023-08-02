@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm QuantumWavves 👋</h1>
 
-<h2 align="center"><img src="https://media.tenor.com/8s0fZPABEEUAAAAC/march-7th.gif" width="500"></h2>
+<h2 align="center"><img src="https://c.tenor.com/TqLQaE0fFS4AAAAC/yelan-yelan-genshin.gif" width="500"></h2>
 
 <h1 align="left">About me</h1>
 
