@@ -6,7 +6,7 @@
 
 <h3 align="left">🐧 Linux enthusiast.</h3>
 <h3 align="left">🎨 Linux Ricing.</h3>
-<h3 align="left">😵‍💫 Study cibersecurity and pentesting.</h3>
+<h3 align="left">😵‍💫 Study cibersecurity topics.</h3>
 <h3 align="left">🍿 Games • Anime • Manga.</h3>
 
 <h1 align="left">Languages and tools:</h1>
