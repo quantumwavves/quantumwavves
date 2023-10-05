@@ -1,12 +1,12 @@
 <h1 align="center">Hello!, I'm QuantumWavves 👋</h1>
 
-<h2 align="center"><img src="resources/furina-genshin.gif" width="700"></h2>
+<h2 align="center"><img src="resources/focalors.png" width="700"></h2>
 
 <h1 align="left">About me</h1>
 
 <h3 align="left">🐧 Linux enthusiast.</h3>
 <h3 align="left">🎨 Linux Ricing.</h3>
-<h3 align="left">😵‍💫 Study cibersecurity topics.</h3>
+<h3 align="left">😵💫 Study cibersecurity topics.</h3>
 <h3 align="left">🍿 Games • Anime • Manga.</h3>
 
 <h1 align="left">Languages and tools:</h1>
